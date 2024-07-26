@@ -1,0 +1,19 @@
+{
+    "name": "ricardo-alv/microservices-commom",
+    "description": "Package Files Utils Microservices Courses",
+    "type": "libray",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RicardoAlv\\MicroservicesCommom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ricardo Alves",
+            "email": "ricardoalv.88@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
